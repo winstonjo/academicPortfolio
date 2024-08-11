@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: 'Hangman Game'
+excerpt: "Created Hangman Game using MERN<br/><img src='/images/hangman_pic.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+*Set Up a basic server using Express to handle API requests.
+*Throughout the project, some of the most challenging bugs were those related to the game logic.
+\*Made incremental changes and test frequently to ensure that each modification helped with the game logic.
