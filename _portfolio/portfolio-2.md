@@ -1,6 +1,6 @@
 ---
 title: 'Banking Account System'
-excerpt: "Developed a complete banking account system using full stack MERN 1<br/><img src='/images/500x300.png'>"
+excerpt: "Developed a complete banking account system using full stack MERN 1<br/><img src='../images/500x300.png'>"
 collection: portfolio
 url: https://github.com/BoyWonder64/GroupProject3750-BankingAppFrontEnd
 ---
