@@ -1,6 +1,6 @@
 ---
 title: 'Banking Account System'
-excerpt: "Developed a complete banking account system using full stack MERN 1<br/><img src='../images/bank_intro.png'>"
+excerpt: "Developed a complete banking account system using full stack MERN <br/><img src='../images/bank_intro.png'>"
 collection: portfolio
 ---
 
