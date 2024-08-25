@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-[Project Repository Link](https://github.com/winstonjo/academicPortfolio)
-
 # About Me
 
 👋 Hello! I'm Winston Jo.
