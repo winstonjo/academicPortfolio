@@ -4,7 +4,7 @@ excerpt: "Developed a Hangman Game using MERN<br/><img src='../images/hangman_pi
 collection: portfolio
 ---
 
-[Hangman Project Repository](https://github.com/BoyWonder64/GroupProject3750-Hangman)
+[Hangman Project Repository](https://github.com/winstonjo/Hangman-)
 
 - Set Up a basic server using Express to handle API requests.
 - Throughout the project, some of the most challenging bugs were those related to the game logic.
