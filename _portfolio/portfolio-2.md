@@ -4,7 +4,7 @@ excerpt: "Developed a complete banking account system using full stack MERN <br/
 collection: portfolio
 ---
 
-[Bank Project Repository](https://github.com/BoyWonder64/GroupProject3750-BankingAppFrontEnd)
+[Bank Project Repository](https://github.com/winstonjo/Banking-App-MERN)
 
 - Enhanced frontend skills by using Tailwind CSS.
 - Built upon an existing bank account assignment for further development.
