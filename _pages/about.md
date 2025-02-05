@@ -12,7 +12,7 @@ redirect_from:
 👋 Hello! I'm Winston Jo.
 
 🎓 **Bachelor in Computer Science**  
-I am graduating this Fall with a degree in Computer Science, where I have developed a strong foundation in software development, algorithms, and data structures. My academic journey fueled my passion for technology and solidified my path as a programmer.
+Recently just graduated Weber State University with a degree in Computer Science, where I have developed a strong foundation in software development, algorithms, and data structures. My academic journey fueled my passion for technology and solidified my path as a programmer.
 
 💻 **Programming Enthusiast**  
 Coding isn't just a job for me—it's a passion. I love exploring different languages, frameworks, and tools to solve complex problems and bring creative ideas to life. Whether it's building a robust backend or designing an intuitive frontend, I'm always up for a challenge.
@@ -28,4 +28,3 @@ When I'm not coding, you'll likely find me watching a match supporting Mancheste
 Soccer is my favorite way to unwind, stay active, and connect with friends.
 
 I'm always eager to collaborate on exciting projects and learn new things. Let's build something amazing together! 😊
-
